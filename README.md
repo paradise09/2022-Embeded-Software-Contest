@@ -75,3 +75,6 @@
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/b5beb81b-f9f3-4c85-9c8d-4bcd335ad565)
 
 ## 6. 기술 스택
+|하드웨어|빌트인 캠|서버|클라우드|어플리케이션|
+|:---:|:---:|:---:|:---:|:---:|
+|``` <div class="container"></div> ```|.|.|.|.|
