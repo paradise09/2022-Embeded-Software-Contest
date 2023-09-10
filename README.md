@@ -1,1 +1,1 @@
-# 2022-Embeded-Software-Contest
+# BCCS (Built-in Cam Cloud System)
