@@ -10,6 +10,7 @@
 5. Software 구성
 6. 기술스택
 
+
 ## 1. 작품소개
 ### 작품 설명
 본 시스템은 차량에서 발생한 이벤트를 별도의 저장소 없이 클라우드에서 관리하여 자료의 유실을 방지하고, 사용자가 해당 정보를 편리하게 관리할 수 있는 플랫폼이다. 주행 중/주차 중 이벤트로 나누어 차량에서 발생하는 다양한 상황으로부터 위험을 감지한 경우 서버와 클라우드에 영상 정보 및 차량 정보 데이터를 실시간으로 전송한다. 이는 어플리케이션에서 실시간으로 사용자에게 제공된다.
@@ -34,6 +35,7 @@
 
 * 전기차의 수요와 공급이 늘어나고 전기차에 대한 소비자의 관심은 나날이 높아지고 있다. 하지만 전기차의 배터리에서 발생하는 화재 이슈는 소비자에게 있어 큰 불안감으로 다가온다. 또한 화재의 원인을 규명하기 위해서는 블랙박스 데이터가 필요하지만 블랙박스가 전소된 경우에는 데이터를 확보할 수 없게 된다. ‘빌트인 캠 클라우드 시스템’은 화재 상황을 위험 상황으로 감지하여 클라우드에 저장한다. 사전에 녹화된 데이터의 유실도 막고 화재 상황까지도 클라우드에 저장되기 때문에 화재 원인 규명 및 데이터 확보에 용이하다.
 
+
 ## 2. 작품시연
 ### **[시연 영상 (현재 링크에서 확인 가능)](https://www.youtube.com/watch?v=tWeJjAyStjo)**
 
@@ -42,6 +44,7 @@
 
 ### 2) 주차상황
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/afcfb6b2-289d-4843-b11c-9b06a1fabeba)
+
 
 ## 3. 어플리케이션 UI
 ### 1) 홈 화면
@@ -53,12 +56,14 @@
 ### 4) 설정 화면
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/a1101001-488e-463d-9944-3cd2fb276691)
 
+
 ## 4. Hardware 구성
 ### 1) 작품 외관
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/a8d4e047-89ef-4440-9a32-3883f215c20a)
 ### 2) 센서 회로도
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/789f7f68-8b01-45bb-aba1-15b674fa9fe6)
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/41dd40e6-021b-41af-8598-effdc00af07e)
+
 
 ## 5. Software 구성
 ### Software 전체 구조
@@ -73,6 +78,7 @@
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/6d808299-d886-4bc3-8877-c2911293a98f)
 ### 5) 데이터베이스 구조
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/b5beb81b-f9f3-4c85-9c8d-4bcd335ad565)
+
 
 ## 6. 기술 스택
 |하드웨어|빌트인 캠|서버|클라우드|어플리케이션|
