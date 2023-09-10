@@ -1,4 +1,4 @@
-# BCCS (Built-in Cam Cloud System)
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/9d99a05f-120d-45f8-a784-c8a9981a0056)# BCCS (Built-in Cam Cloud System)
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/99b55bc2-3883-43c1-bccf-de8f5154b22d)
 
 
@@ -29,4 +29,12 @@
 * 전기차의 수요와 공급이 늘어나고 전기차에 대한 소비자의 관심은 나날이 높아지고 있다. 하지만 전기차의 배터리에서 발생하는 화재 이슈는 소비자에게 있어 큰 불안감으로 다가온다. 또한 화재의 원인을 규명하기 위해서는 블랙박스 데이터가 필요하지만 블랙박스가 전소된 경우에는 데이터를 확보할 수 없게 된다. ‘빌트인 캠 클라우드 시스템’은 화재 상황을 위험 상황으로 감지하여 클라우드에 저장한다. 사전에 녹화된 데이터의 유실도 막고 화재 상황까지도 클라우드에 저장되기 때문에 화재 원인 규명 및 데이터 확보에 용이하다.
 
 ## 2. 작품시연
-** [시연 영상 (현재 링크에서 확인 가능)](https://www.youtube.com/watch?v=tWeJjAyStjo)
+**[시연 영상 (현재 링크에서 확인 가능)](https://www.youtube.com/watch?v=tWeJjAyStjo)**
+
+### 1) 주행상황
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/53df3a7e-18b0-42d2-830c-37f853899aea)
+
+### 2) 주차상황
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/afcfb6b2-289d-4843-b11c-9b06a1fabeba)
+
+## 3. 어플리케이션 UI
