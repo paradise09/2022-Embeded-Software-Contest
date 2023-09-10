@@ -1,4 +1,4 @@
-![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/9d99a05f-120d-45f8-a784-c8a9981a0056)# BCCS (Built-in Cam Cloud System)
+# BCCS (Built-in Cam Cloud System)
 ![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/99b55bc2-3883-43c1-bccf-de8f5154b22d)
 
 
