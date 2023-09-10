@@ -55,3 +55,23 @@
 
 ## 4. Hardware 구성
 ### 1) 작품 외관
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/a8d4e047-89ef-4440-9a32-3883f215c20a)
+### 2) 센서 회로도
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/789f7f68-8b01-45bb-aba1-15b674fa9fe6)
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/41dd40e6-021b-41af-8598-effdc00af07e)
+
+## 5. Software 구성
+### Software 전체 구조
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/14951d8e-c29c-4168-9ac8-4647de14bba1)
+### 1) 센서 영역 동작 원리
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/86ceb92d-6399-458b-ab8b-6e7db538aeb4)
+### 2) 주차 시 위험상황 판단 및 데이터 송신 과정
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/1f20646e-2964-4492-a65d-82603c15e3f6)
+### 3) 주행 시 위험상황 판단 및 데이터 송신 과정
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/c04d50d4-c19d-4d7a-b720-ceebe8df5f1e)
+### 4) 서버 영역 동작 원리
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/6d808299-d886-4bc3-8877-c2911293a98f)
+### 5) 데이터베이스 구조
+![image](https://github.com/paradise09/2022ESW_Contest_mobility_6003/assets/99300776/b5beb81b-f9f3-4c85-9c8d-4bcd335ad565)
+
+## 6. 기술 스택
